@@ -1,2 +1,2 @@
 # hello-world
-This is the repo for the github hello world lab.
+I am now changing the contents of the readme file in this repo. This test should let me commit a change to my master branch.
