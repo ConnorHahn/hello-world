@@ -7,7 +7,8 @@ I am now changing the contents of the readme file in this repo. This test should
   a. this is a sub topic
   
 ``` this should be a code block
-testing out the code block {}```
+testing out the code block {}
+```
   
 Table heading | second table heading
 ------------- | --------------------
